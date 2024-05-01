@@ -1,4 +1,4 @@
-# spring-cache
+# spring-memory-configuration
 A simple project to kickstart your spring boot and heap memory fine tuning journey
 
 Note: In testing
